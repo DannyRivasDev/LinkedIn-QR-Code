@@ -1,2 +1,2 @@
 # LinkedIn-QR-Code
-A LinkedIn QR Code generator for phone wallpaper
+A QR Code wallpaper maker, the current example I'm using is for LinkedIn.
