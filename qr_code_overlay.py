@@ -5,7 +5,7 @@ overlay_position = (250, 1000)
 
 background_img = Image.open("background.png")
 
-overlay_img = Image.open("myqrcode.png").convert("RGBA")
+overlay_img = Image.open("qrcode.png").convert("RGBA")
 
 background_img.paste(overlay_img, overlay_position, overlay_img)
 
