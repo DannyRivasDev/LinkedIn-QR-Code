@@ -1,8 +1,8 @@
 import qrcode
 
 # Enter link to genrate qr code
-# link = input("Enter your LinkedIn Profile URL: ")
-link = "https://www.linkedin.com/"
+link = input("Enter your LinkedIn Profile URL: ")
+# link = "https://www.linkedin.com/"
 
 # Edit the size of the qr code box and border
 qr = qrcode.QRCode(
