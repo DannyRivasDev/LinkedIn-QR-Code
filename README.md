@@ -15,9 +15,10 @@ Then run `qr_code_overlay.py` to add the newly created qr code to the background
   pip install qrcode
 
 ## Customization
-Adjust the script parameters in `qr_code_generator.py`:
+Adjust the QR code parameters in `qr_code_generator.py`:
 - box_size: Size of the QR code box.
 - border: Border around the QR code.
-- overlay_position: Position to place the QR code on the background image.
 
+Adjust the QR code position in `qr_code_overlay.py`:
+- overlay_position: Position to place the QR code on the background image.
 
