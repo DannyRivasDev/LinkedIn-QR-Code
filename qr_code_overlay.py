@@ -1,6 +1,6 @@
 from PIL import Image
 
-# Use these values to position the qr code (horizontal, vertical)
+# Use these values to position the QR code (horizontal, vertical)
 overlay_position = (250, 1000)
 
 background_img = Image.open("background.png")

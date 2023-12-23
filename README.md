@@ -20,5 +20,5 @@ Adjust the QR code parameters in `qr_code_generator.py`:
 - border: Border around the QR code.
 
 Adjust the QR code position in `qr_code_overlay.py`:
-- overlay_position: Position to place the QR code on the background image.
+- overlay_position: Position the QR code on the background image.
 
