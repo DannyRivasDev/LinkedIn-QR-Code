@@ -1,5 +1,5 @@
 # QR-Code-Wallpaper
-This Python script generates a QR code and overlays it onto a background image. The resulting image can be used as a custom wallpaper.
+This Python script generates a QR code and overlays it onto a background image. The resulting image can be used as a custom wallpaper to easily share links at networking events.
 
 The background was made using Adobe Express.
 
