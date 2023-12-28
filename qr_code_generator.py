@@ -1,8 +1,8 @@
 import qrcode
 
 # Enter link to genrate QR code
-link = input("Enter link to generate QR code: ")
 # link = "https://www.linkedin.com/"
+link = input("Enter link to generate QR code: ")
 
 # Edit the size of the qr code box and border
 qr = qrcode.QRCode(
